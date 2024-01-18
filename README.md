@@ -7,7 +7,7 @@ Because I am currently going through a mental pain and need some more time to fi
 
 Ok yeah 
 
-![Mock](What the Pain.png)
+![Mock](Whatpain.png)
 
 This is a basic idea
 

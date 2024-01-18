@@ -1,7 +1,7 @@
 # startup
 Startup application for BYU CS 260
 Elevator Pitch:
-Antidepressants
+## Antidepressants
 Because I am currently going through a mental pain and need some more time to finish this so I don't 
 
 My bloody computer crashed before I was able to commit the actual document, and while making it I realized that the idea is kind of crap
@@ -18,7 +18,7 @@ An unfolding type game wherein you upload various files to the server in order t
 A bit like Drawn to Life combined with random Jpegs you find on your pc, and also Candybox.
 though I may need to look into this to see if it is actually worth working on, and if it will fall to the pain of feature creep.
 ...
-Image Wars
+## Image Wars
 Upload photo to the site
 It is given stats from an arbitrary algorithm (file size, file type, colors used, etc.)
 and you can pit them against other files.
